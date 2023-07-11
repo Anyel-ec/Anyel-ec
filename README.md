@@ -41,11 +41,11 @@ Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable 
 
 ## Certificados y Educación:
 
-- Certificado Profesional de IBM: Analista en Ciberseguridad
-- Certificado Profesional de Analista en Ciberseguridad
-- Certificado Profesional de Analista de Datos de IBM
+- Certificado Profesional de IBM: Analista en Ciberseguridad ![IBM](https://img.icons8.com/color/48/000000/ibm.png) 
+- Certificado Profesional de Analista en Ciberseguridad de IBM![IBM](https://img.icons8.com/color/48/000000/ibm.png) 
+- Certificado Profesional de Analista de Datos de IBM ![IBM](https://img.icons8.com/color/48/000000/ibm.png) 
 - Especialización de Computer Communications
-- Certificado Profesional de Google IT Support
+- Certificado Profesional de Google IT Support ![Google](https://img.icons8.com/color/48/000000/google-logo.png)
 - Certificado de Analista de Ciberseguridad Junior de Cisco
 - Cursos del Instituto Superior Tecnológico Tsachila
 
