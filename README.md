@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Mi objetivo es desarrollar soluciones innovadoras y de alta calidad que satisfagan las necesidades de mis clientes y usuarios finales.
 
-## Tecnologías:
 
 ## Tecnologías:
 
@@ -41,11 +40,11 @@ Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable 
 
 ## Certificados y Educación:
 
-- Certificado Profesional de IBM: Analista en Ciberseguridad ![IBM](https://img.icons8.com/color/48/000000/ibm.png) 
-- Certificado Profesional de Analista en Ciberseguridad de IBM![IBM](https://img.icons8.com/color/48/000000/ibm.png) 
-- Certificado Profesional de Analista de Datos de IBM ![IBM](https://img.icons8.com/color/48/000000/ibm.png) 
+- Certificado Profesional de IBM: Analista en Ciberseguridad 
+- Certificado Profesional de Analista en Ciberseguridad de IBM
+- Certificado Profesional de Analista de Datos de IBM 
 - Especialización de Computer Communications
-- Certificado Profesional de Google IT Support ![Google](https://img.icons8.com/color/48/000000/google-logo.png)
+- Certificado Profesional de Google IT Support ![Google]
 - Certificado de Analista de Ciberseguridad Junior de Cisco
 - Cursos del Instituto Superior Tecnológico Tsachila
 
