@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Mi objetivo es desarrollar soluciones innovadoras y de alta calidad que satisfagan las necesidades de mis clientes y usuarios finales.
 
-#### Redes Sociales:
-- [Página Web](https://www.anyel.lovestoblog.com/?i=1)
-- [LinkedIn](https://www.linkedin.com)
+#### Paginas Personales
+[![Página Web](https://img.shields.io/badge/Página%20Web-FF4088?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)](https://www.anyel.lovestoblog.com/?i=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
 
 ## Tecnologías:
 
