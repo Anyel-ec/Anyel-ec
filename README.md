@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--![Profile Picture](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)-->
 
-¡Hola! ✨ Soy Angel Paul Patiño Diaz, un Ingeniero en Tecnologías de la Información con experiencia tanto en el desarrollo de tecnologías de front-end como de back-end. Estoy comprometido con el progreso en todos los aspectos de mi vida y siempre estoy buscando nuevas oportunidades para crecer profesionalmente. Como emprendedor nato, estoy constantemente aprendiendo y actualizándome en las últimas tendencias y tecnologías.
+¡Hola! ✨ Soy Angel Paul Patiño Diaz, un estudiante de Ingeniería en Tecnologías de la Información con experiencia tanto en el desarrollo de tecnologías de front-end como de back-end. Estoy comprometido con el progreso en todos los aspectos de mi vida y siempre estoy buscando nuevas oportunidades para crecer profesionalmente. Como emprendedor nato, estoy constantemente aprendiendo y actualizándome en las últimas tendencias y tecnologías.
 
 Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Mi objetivo es desarrollar soluciones innovadoras y de alta calidad que satisfagan las necesidades de mis clientes y usuarios finales.
 
