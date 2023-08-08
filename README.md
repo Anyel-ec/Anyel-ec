@@ -40,6 +40,7 @@ Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+[![IBM Db2](https://img.shields.io/badge/IBM_Db2-054ADA?style=for-the-badge&logo=ibm&logoColorblue&labelColor=101010)]()
 
 ## Experiencia:
 
