@@ -35,12 +35,12 @@ Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 #### Bases de Datos:
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
-[![IBM Db2](https://img.shields.io/badge/IBM_Db2-054ADA?style=for-the-badge&logo=ibm&logoColorblue&labelColor=101010)]()
+[![SQL Server](https://img.shields.io/badge/SQL_Server-dd3f00?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=f&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=1&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ecf50d&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=101010)]()
+[![IBM Db2](https://img.shields.io/badge/IBM_Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=fffffff&labelColor=101010)]()
 
 ## Experiencia:
 
