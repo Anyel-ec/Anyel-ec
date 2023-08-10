@@ -22,7 +22,8 @@ Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable 
 
 #### Paginas Personales
 [![Página Web](https://img.shields.io/badge/Página%20Web-FF4088?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)](https://www.anyel.lovestoblog.com/?i=1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=101010)](https://www.linkedin.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@anyel.ec)
 
 ## Tecnologías:
 
