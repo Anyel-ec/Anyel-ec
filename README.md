@@ -51,7 +51,7 @@ Soy autodidacta y me encanta enfrentar nuevos desafíos. Me considero adaptable 
 - Certificado Profesional de Analista en Ciberseguridad de IBM
 - Certificado Profesional de Analista de Datos de IBM 
 - Especialización de Computer Communications
-- Certificado Profesional de Google IT Support ![Google]
+- Certificado Profesional de Google IT Support
 - Certificado de Analista de Ciberseguridad Junior de Cisco
 - Cursos del Instituto Superior Tecnológico Tsachila
 
