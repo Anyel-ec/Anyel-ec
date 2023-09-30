@@ -21,9 +21,9 @@ Hello! ✨ I am Angel Paul Patiño Diaz, an Information Technology Engineering s
 I am self-taught and I love facing new challenges. I consider myself adaptable and comfortable working in a wide variety of environments. My goal is to develop innovative, high-quality solutions that meet the needs of my clients and end users.
 
 #### Personal Pages
-[![Web Page](https://img.shields.io/badge/Página%20Web-FFCA28?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://anyel.top /)
+[![Web Page](https://img.shields.io/badge/Página%20Web-FFCA28?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://anyel.top/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
-[![TikTok](https://img.shields.io/badge/TikTok-f24c0a?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@anyel .ec)
+[![TikTok](https://img.shields.io/badge/TikTok-f24c0a?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@anyel.ec)
 
 ## Technologies:
 
