@@ -47,12 +47,13 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 
 ## Certificates and Education:
 
-- [IBM Professional Certificate: Cybersecurity Analyst] (https://coursera.org/share/a36e6952e69bab2b0c7b709d72754521)
-- [IBM Professional Cybersecurity Analyst Certificate] (https://www.coursera.org/account/accomplishments/professional-cert/7C5SZD9DCFCY)
-- [Computer Communications Specialization] (https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)
-- [Google IT Support Professional Certificate] (https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
-- [Cisco Junior Cybersecurity Analyst Certificate] (https://www.credly.com/badges/c0e93741-8463-4e34-b085-c66135b13b4a/public_url)
+- [IBM Professional Certificate: Cybersecurity Analyst](https://coursera.org/share/a36e6952e69bab2b0c7b709d72754521)
+- [IBM Professional Cybersecurity Analyst Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7C5SZD9DCFCY)
+- [Computer Communications Specialization](https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)
+- [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
+- [Cisco Junior Cybersecurity Analyst Certificate](https://www.credly.com/badges/c0e93741-8463-4e34-b085-c66135b13b4a/public_url)
 - Courses at the Tsachila Higher Technological Institute
+
 
 
 
