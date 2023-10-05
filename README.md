@@ -43,8 +43,6 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=101010)]()
 [![IBM Db2](https://img.shields.io/badge/IBM_Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=ffffffff&labelColor=101010)]()
 
-## Experience:
-
 ## Certificates and Education:
 
 - [IBM Professional Certificate: Cybersecurity Analyst](https://coursera.org/share/a36e6952e69bab2b0c7b709d72754521)
