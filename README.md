@@ -24,7 +24,9 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![My Page](https://img.shields.io/badge/Página%20Web-FFCA28?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://anyel.top/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
 [![TikTok](https://img.shields.io/badge/TikTok-f24c0a?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@anyel.ec)
-
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=101010)](https://www.coursera.org/user/a191f2c7d82b1aa0cb1a5399f50780ff)
+[![Credly](https://img.shields.io/badge/Credly-2F87CE?style=for-the-badge&logo=credly&logoColor=white&labelColor=101010)](https://www.credly.com/users/anyel-ec/badges)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC7In8IjfwKn-PUMYaC0NtUg)
 ## Technologies:
 
 #### Programming languages:
