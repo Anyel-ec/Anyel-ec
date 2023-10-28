@@ -41,6 +41,8 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)](ENLACE_A_TU_CERTIFICADO_O_PÁGINA_WEB)
+
 
 #### Web Frameworks:
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
@@ -62,12 +64,3 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 - [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
 - [Cisco Junior Cybersecurity Analyst Certificate](https://www.credly.com/badges/c0e93741-8463-4e34-b085-c66135b13b4a/public_url)
 - Courses at the Tsachila Higher Technological Institute
-
-
-
-
-## Education:
-
-- University of the Armed Forces ESPE: Information Technology Engineering Student
-
-Thank you for visiting my profile! I am excited to work on new projects and collaborate in the development of innovative technological solutions. If you want to contact me or learn more about my projects, feel free to visit my GitHub profile: [https://github.com/angel-patino](https://github.com/angel-patino)
