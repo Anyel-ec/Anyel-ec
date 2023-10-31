@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <!--![Profile Picture](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)-->
 
-Hello! ✨ I am Angel Paul Patiño Diaz, an Information Technology Engineering student with experience in both the development of front-end and back-end technologies. I am committed to progress in all aspects of my life and am always looking for new opportunities to grow professionally. As a born entrepreneur, I am constantly learning and updating myself on the latest trends and technologies.
+Hello! ✨ I am Angel Paul Patiño Diaz, an Information Technology Engineering student with experience in both the development of front-end and back-end technologies. I am committed to progress in all aspects of my life and always being looking for new opportunities to grow professionally. As a born entrepreneur, I am constantly learning and updating myself on the latest trends and technologies.
+
 
 I am self-taught and I love facing new challenges. I consider myself adaptable and comfortable working in a wide variety of environments. My goal is to develop innovative, high-quality solutions that meet the needs of my clients and end users.
 
