@@ -30,12 +30,11 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 ## Technologies:
 
 #### Programming languages:
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C%23-a31dd6?style=for-the-badge&logo=c-sharp&logoColor=&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
 
 #### Web Development:
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
