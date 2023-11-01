@@ -63,4 +63,3 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 - [Computer Communications Specialization](https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)
 - [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
 - [Cisco Junior Cybersecurity Analyst Certificate](https://www.credly.com/badges/c0e93741-8463-4e34-b085-c66135b13b4a/public_url)
-- Courses at the Tsachila Higher Technological Institute
