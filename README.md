@@ -59,7 +59,7 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 
 ## Professional Certifications
 
-- [IBM Professional Certificate: Cybersecurity Analyst](https://coursera.org/share/a36e6952e69bab2b0c7b709d72754521)
+- [IBM Professional Certificate IBM Data Analyst](https://www.coursera.org/account/accomplishments/specialization/7C5SZD9DCFCY)
 - [IBM Professional Cybersecurity Analyst Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7C5SZD9DCFCY)
 - [Computer Communications Specialization](https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)
 - [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
