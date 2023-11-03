@@ -21,40 +21,39 @@ Hello! ✨ I am Angel Paul Patiño Diaz, an Information Technology Engineering s
 
 I am self-taught and I love facing new challenges. I consider myself adaptable and comfortable working in a wide variety of environments. My goal is to develop innovative, high-quality solutions that meet the needs of my clients and end users.
 
-## Personal Pages
-[![My Page](https://img.shields.io/badge/Página%20Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://anyel.top/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@anyel.ec)
-[![Coursera](https://img.shields.io/badge/Coursera-000000?style=for-the-badge&logo=coursera&logoColor=white&labelColor=000000)](https://www.coursera.org/user/a191f2c7d82b1aa0cb1a5399f50780ff)
-[![Credly](https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=credly&logoColor=white&labelColor=000000)](https://www.credly.com/users/anyel-ec/badges)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/channel/UC7In8IjfwKn-PUMYaC0NtUg)
-## Technologies:
+#### Personal Pages
+[![My Page](https://img.shields.io/badge/Página%20Web-212121?style=for-the-badge&logo=google-chrome&logoColor=FFCA28&labelColor=212121)](https://anyel.top/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=212121)](https://www.linkedin.com)
+[![TikTok](https://img.shields.io/badge/TikTok-212121?style=for-the-badge&logo=tiktok&logoColor=f24c0a&labelColor=212121)](https://www.tiktok.com/@anyel.ec)
+[![Coursera](https://img.shields.io/badge/Coursera-212121?style=for-the-badge&logo=coursera&logoColor=0056D2&labelColor=212121)](https://www.coursera.org/user/a191f2c7d82b1aa0cb1a5399f50780ff)
+[![Credly](https://img.shields.io/badge/Credly-212121?style=for-the-badge&logo=credly&logoColor=2F87CE&labelColor=212121)](https://www.credly.com/users/anyel-ec/badges)
+[![YouTube](https://img.shields.io/badge/YouTube-212121?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=212121)](https://www.youtube.com/channel/UC7In8IjfwKn-PUMYaC0NtUg)
 
-#### Programming languages:
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)]()
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)]()
-[![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)]()
-[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)]()
-[![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=&labelColor=000000)]()
+#### Databases:
+[![SQL Server](https://img.shields.io/badge/SQL_Server-212121?style=for-the-badge&logo=microsoftsqlserver&logoColor=dd3f00&labelColor=212121)]()
+[![MySQL](https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=212121)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=212121)]()
+[![Firebase](https://img.shields.io/badge/Firebase-212121?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=212121)]()
+[![SQLite](https://img.shields.io/badge/SQLite-212121?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=212121)]()
+[![IBM Db2](https://img.shields.io/badge/IBM_Db2-212121?style=for-the-badge&logo=ibm&logoColor=054ADA&labelColor=212121)]()
 
 #### Web Development:
-[![React.js](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)](ENLACE_A_TU_CERTIFICADO_O_PÁGINA_WEB)
+[![React.js](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
+[![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=212121)]()
+[![Express.js](https://img.shields.io/badge/Express.js-212121?style=for-the-badge&logo=express&logoColor=white&labelColor=212121)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=212121)]()
+
+#### Programming languages:
+[![JavaScript](https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=212121)]()
+[![Python](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=212121)]()
+[![PHP](https://img.shields.io/badge/PHP-212121?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=212121)]()
+[![Java](https://img.shields.io/badge/Java-212121?style=for-the-badge&logo=java&logoColor=007396&labelColor=212121)]()
+[![C#](https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=c-sharp&logoColor=a31dd6&labelColor=212121)]()
 
 
 #### Web Frameworks:
-[![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)]()
-
-#### Databases:
-[![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff&labelColor=000000)]()
-[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)]()
-[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)]()
-[![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)]()
-[![IBM Db2](https://img.shields.io/badge/IBM_Db2-000000?style=for-the-badge&logo=ibm&logoColor=white&labelColor=000000)]()
+[![Django](https://img.shields.io/badge/Django-212121?style=for-the-badge&logo=django&logoColor=white&labelColor=212121)]()
+[![Flask](https://img.shields.io/badge/Flask-212121?style=for-the-badge&logo=flask&logoColor=white&labelColor=212121)]()
 
 
 ## Professional Certifications
