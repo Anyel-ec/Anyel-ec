@@ -35,7 +35,8 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=212121)]()
 [![Firebase](https://img.shields.io/badge/Firebase-212121?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=212121)]()
 [![SQLite](https://img.shields.io/badge/SQLite-212121?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=212121)]()
-[![IBM Db2](https://img.shields.io/badge/IBM_Db2-212121?style=for-the-badge&logo=ibm&logoColor=054ADA&labelColor=212121)]()
+<!--[![IBM Db2](https://img.shields.io/badge/IBM_Db2-212121?style=for-the-badge&logo=ibm&logoColor=054ADA&labelColor=212121)]()
+-->
 
 #### Web Development:
 [![React.js](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
