@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 <!--![Profile Picture](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)-->
 
+Hello! ✨ I am Angel Paul Patiño Diaz, a student already finishing Information Technology Engineering at the University of the Armed Forces, in love with the digital world. I'm passionate about cybersecurity, data analysis, and sharing my knowledge with others. If you have any questions or concerns, don't hesitate to get in touch, it's free! 😊
+
+❤️Sé una buena persona por encima de todo. | Be a good person above all else.  ❤️
+
+<!--
 Hello! ✨ I am Angel Paul Patiño Diaz, an Information Technology Engineering student with experience in both the development of front-end and back-end technologies. I am committed to progress in all aspects of my life and always being looking for new opportunities to grow professionally. As a born entrepreneur, I am constantly learning and updating myself on the latest trends and technologies.
 
 
-I am self-taught and I love facing new challenges. I consider myself adaptable and comfortable working in a wide variety of environments. My goal is to develop innovative, high-quality solutions that meet the needs of my clients and end users.
+I am self-taught and I love facing new challenges. I consider myself adaptable and comfortable working in a wide variety of environments. My goal is to develop innovative, high-quality solutions that meet the needs of my clients and end users. -->
 
 #### Personal Pages
 [![My Page](https://img.shields.io/badge/Página%20Web-212121?style=for-the-badge&logo=google-chrome&logoColor=FFCA28&labelColor=212121)](https://anyel.top/)
@@ -57,10 +62,10 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![Flask](https://img.shields.io/badge/Flask-212121?style=for-the-badge&logo=flask&logoColor=white&labelColor=212121)]()
 
 
-## Professional Certifications
+## Professional Certifications 
 
-- [IBM Professional Certificate IBM Data Analyst](https://www.coursera.org/account/accomplishments/specialization/7C5SZD9DCFCY)
-- [IBM Professional Cybersecurity Analyst Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7C5SZD9DCFCY)
-- [Computer Communications Specialization](https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)
-- [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
-- [Cisco Junior Cybersecurity Analyst Certificate](https://www.credly.com/badges/c0e93741-8463-4e34-b085-c66135b13b4a/public_url)
+[![IBM Cybersecurity Analyst Certificate](https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Certificate-212121?style=for-the-badge&logo=ibm&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/7C5SZD9DCFCY)
+[![Computer Communications Specialization](https://img.shields.io/badge/Computer_Communications_Specialization-212121?style=for-the-badge&logo=coursera&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)
+[![IBM Professional Certificate](https://img.shields.io/badge/IBM_Data_Analyst_Professional_Certificate-212121?style=for-the-badge&logo=ibm&logoColor=white&labelColor=212121)](https://coursera.org/share/a36e6952e69bab2b0c7b709d72754521)
+[![Google IT Support Professional Certificate](https://img.shields.io/badge/Google_IT_Support_Professional_Certificate-212121?style=for-the-badge&logo=google&logoColor=white&labelColor=212121)](https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
+[![Cisco Junior Cybersecurity Analyst Certificate](https://img.shields.io/badge/Cisco_Junior_Cybersecurity_Analyst_Certificate-212121?style=for-the-badge&logo=cisco&logoColor=white&labelColor=212121)](https://www.credly.com/badges/c0e93741-8463-4e34-b085-c66135b13b4a/public_url)
