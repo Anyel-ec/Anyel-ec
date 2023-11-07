@@ -61,6 +61,10 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![Django](https://img.shields.io/badge/Django-212121?style=for-the-badge&logo=django&logoColor=white&labelColor=212121)]()
 [![Flask](https://img.shields.io/badge/Flask-212121?style=for-the-badge&logo=flask&logoColor=white&labelColor=212121)]()
 
+#### Cloud Solutions:
+
+[![AWS Cloud Solutions Architect](https://img.shields.io/badge/AWS_Cloud_Solutions_Architect-212121?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/JJUR4MQDTX2P)  
+
 
 ## Professional Certifications 
 [![AWS Cloud Solutions Architect](https://img.shields.io/badge/AWS_Cloud_Solutions_Architect-212121?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/JJUR4MQDTX2P)  
