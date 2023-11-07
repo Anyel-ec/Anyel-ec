@@ -63,7 +63,7 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 
 
 ## Professional Certifications 
-[![AWS Cloud Solutions Architect](https://img.shields.io/badge/AWS_Cloud_Solutions_Architect-212121?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/JJUR4MQDTX2P) 
+[![AWS Cloud Solutions Architect](https://img.shields.io/badge/AWS_Cloud_Solutions_Architect-212121?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/JJUR4MQDTX2P)  
 [![IBM Cybersecurity Analyst Certificate](https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Certificate-212121?style=for-the-badge&logo=ibm&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/7C5SZD9DCFCY)  
 [![Computer Communications Specialization](https://img.shields.io/badge/Computer_Communications_Specialization-212121?style=for-the-badge&logo=coursera&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)  
 [![IBM Professional Certificate](https://img.shields.io/badge/IBM_Data_Analyst_Professional_Certificate-212121?style=for-the-badge&logo=ibm&logoColor=white&labelColor=212121)](https://coursera.org/share/a36e6952e69bab2b0c7b709d72754521)  
