@@ -31,8 +31,9 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=212121)](https://www.linkedin.com)
 [![TikTok](https://img.shields.io/badge/TikTok-212121?style=for-the-badge&logo=tiktok&logoColor=f24c0a&labelColor=212121)](https://www.tiktok.com/@anyel.ec)
 [![Coursera](https://img.shields.io/badge/Coursera-212121?style=for-the-badge&logo=coursera&logoColor=0056D2&labelColor=212121)](https://www.coursera.org/user/a191f2c7d82b1aa0cb1a5399f50780ff)
-[![Credly](https://img.shields.io/badge/Credly-212121?style=for-the-badge&logo=credly&logoColor=2F87CE&labelColor=212121)](https://www.credly.com/users/anyel-ec/badges)
 [![YouTube](https://img.shields.io/badge/YouTube-212121?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=212121)](https://www.youtube.com/channel/UC7In8IjfwKn-PUMYaC0NtUg)
+[![Facebook](https://img.shields.io/badge/Facebook-212121?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=212121)](https://www.facebook.com/ecanyel/)
+
 
 #### Databases:
 [![SQL Server](https://img.shields.io/badge/SQL_Server-212121?style=for-the-badge&logo=microsoftsqlserver&logoColor=dd3f00&labelColor=212121)]()
