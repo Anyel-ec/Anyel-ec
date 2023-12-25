@@ -50,7 +50,7 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![React.js](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
 [![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=212121)]()
 [![Express.js](https://img.shields.io/badge/Express.js-212121?style=for-the-badge&logo=express&logoColor=white&labelColor=212121)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=212121)]()
+<!-- [![Vue.js](https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=212121)]()-->
 
 #### Programming languages:
 [![Python](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=212121)]()
