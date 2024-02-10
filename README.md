@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--![Profile Picture](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)-->
 
-Hello! ✨ I am Angel Paul Patiño Diaz, a student already finishing Information Technology Engineering at the University of the Armed Forces, in love with the digital world. I'm passionate about cybersecurity, data analysis, and sharing my knowledge with others. I enjoy the countryside, contemplating the sunsets 🌄, admiring the stars ✨ and feeling the freshness of the night; It's just beautiful.😊
+Hello! ✨ I am Angel Paul Patiño Diaz, a student already finishing Information Technology Engineering at the University of the Armed Forces, in love with the digital world. I'm passionate about Cybersecurity, DevOps, and sharing my knowledge with others. I enjoy the countryside, contemplating the sunsets 🌄, admiring the stars ✨ and feeling the freshness of the night; It's just beautiful.😊
 
 ❤️Sé una buena persona por encima de todo. | Be a good person above all else.  ❤️
 
