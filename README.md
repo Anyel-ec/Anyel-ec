@@ -35,10 +35,8 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![Facebook](https://img.shields.io/badge/Facebook-212121?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=212121)](https://www.facebook.com/ecanyel/)
 
 
-#### Databases:
-[![SQL Server](https://img.shields.io/badge/SQL_Server-212121?style=for-the-badge&logo=microsoftsqlserver&logoColor=dd3f00&labelColor=212121)]()
-[![MySQL](https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=212121)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=212121)]()
+
+#### Databases: [![SQL Server](https://img.shields.io/badge/SQL_Server-212121?style=for-the-badge&logo=microsoftsqlserver&logoColor=dd3f00&labelColor=212121)]() [![MySQL](https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=212121)]() [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=212121)]()
 [![SQLite](https://img.shields.io/badge/SQLite-212121?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=212121)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-212121?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=212121)]()
 <!--[![IBM Db2](https://img.shields.io/badge/IBM_Db2-212121?style=for-the-badge&logo=ibm&logoColor=054ADA&labelColor=212121)]()
