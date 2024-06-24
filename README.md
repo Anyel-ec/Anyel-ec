@@ -36,30 +36,24 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 
 
 
-#### Databases: 
+<!-- #### Databases: 
 [![SQL Server](https://img.shields.io/badge/SQL_Server-212121?style=for-the-badge&logo=microsoftsqlserver&logoColor=dd3f00&labelColor=212121)]() 
 [![MySQL](https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=212121)]() 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=212121)]() 
 [![SQLite](https://img.shields.io/badge/SQLite-212121?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=212121)]() 
 [![MongoDB](https://img.shields.io/badge/MongoDB-212121?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=212121)]() 
 <!--[![IBM Db2](https://img.shields.io/badge/IBM_Db2-212121?style=for-the-badge&logo=ibm&logoColor=054ADA&labelColor=212121)]()
--->
-<!--[![Firebase](https://img.shields.io/badge/Firebase-212121?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=212121)]() -->
-
 
 #### Web Development:
 [![React](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
 [![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=212121)]()
 [![Angular](https://img.shields.io/badge/Angular-212121?style=for-the-badge&logo=angular&logoColor=white&labelColor=212121)]()
-<!-- [![Vue.js](https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=212121)]()-->
 
 #### Programming languages:
 [![Python](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=212121)]()
 [![PHP](https://img.shields.io/badge/PHP-212121?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=212121)]()
 [![Java](https://img.shields.io/badge/Java-212121?style=for-the-badge&logo=java&logoColor=007396&labelColor=212121)]()
 [![JS](https://img.shields.io/badge/JS-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=212121)]()
-<!--[![C#](https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=c-sharp&logoColor=a31dd6&labelColor=212121)]() -->
-
 
 #### Web Frameworks:
 [![Django](https://img.shields.io/badge/Django-212121?style=for-the-badge&logo=django&logoColor=white&labelColor=212121)]()
@@ -67,7 +61,7 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 
 #### Cloud Solutions:
 
-[![AWS Cloud Solutions Architect](https://img.shields.io/badge/AWS_Cloud-212121?style=for-the-badge&logo=amazon-aws&logoColor=F58535&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/JJUR4MQDTX2P)  
+[![AWS Cloud Solutions Architect](https://img.shields.io/badge/AWS_Cloud-212121?style=for-the-badge&logo=amazon-aws&logoColor=F58535&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/JJUR4MQDTX2P)  -->
 
 ## Professional Certifications 
 [![AWS Cloud Solutions Architect](https://img.shields.io/badge/AWS_Cloud_Solutions_Architect-212121?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=212121)](https://www.coursera.org/account/accomplishments/professional-cert/JJUR4MQDTX2P)  
